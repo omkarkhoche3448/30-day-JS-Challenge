@@ -1,7 +1,5 @@
 // Day 2: Operators
 
-// Tasks/Activities:
-
 // Activity 1: Arithmetic Operations
 // - Task 1: Write a program to add two numbers and log the result to the console.
 function add(a, b) {
@@ -44,7 +42,6 @@ function mod(a, b) {
 const modulus = mod(10, 20);
 console.log("modulus: " + modulus);
 
-console.log("---------------------------------")
 // Activity 2: Assignment Operators
 // - Task 6: Use the `+=` operator to add a number to a variable and log the result to the console.
 let num = 10;
@@ -56,7 +53,6 @@ let num2 = 10;
 num -= 20;
 console.log("num2: " + num2);
 
-console.log("-----------------------------")
 
 // Activity 3: Comparison Operators
 // - Task 8: Write a program to compare two numbers using `>` and `<` and log the result to the console.
@@ -82,7 +78,6 @@ console.log(greaterEqual(10, 5));   // 10 is greater than or equal to 5
 console.log(greaterEqual(5, 10));   // 5 is less than 10
 console.log(greaterEqual(7, 7));    // 7 is greater than or equal to 7
 
-console.log("\n")
 
 // - Task 10: Write a program to compare two numbers using `==` and `===` and log the result to the console.
 function equal(a, b) {
@@ -98,7 +93,6 @@ console.log(equal("20", 20));
 console.log(equal(20, 20));
 console.log(equal("20", "20"));
 
-console.log("\n")
 
 // Activity 4: Logical Operators
 // - Task 11: Write a program that uses the `&&` operator to combine two conditions and log the result to the console.
