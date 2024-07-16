@@ -31,7 +31,6 @@ function div(a, b) {
     let div = a / b;
     return div;
 }
-
 const division = div(10, 20);
 console.log("division: " + division);
 // - Task 5: Write a program to find the remainder when one number is divided by another and log the result to the console.
