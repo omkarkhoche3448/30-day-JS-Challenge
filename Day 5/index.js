@@ -61,7 +61,6 @@ const callFunctionNTimes = (func, n) => {
 };
 console.log(callFunctionNTimes(() => console.log("Hello"), 5));
 
-
 // - Task 10: Write a higher-order function that takes two functions and a value, applies the first function to the value, and then applies the second function to the result.
 function applyFunctions(func1, func2, value) {
     return func2(func1(value));
