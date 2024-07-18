@@ -73,7 +73,6 @@ for (let i = 1; i <= 10; i++) {
     console.log(i);
 }
 
-
 // Feature Request:
 // 1. Number Printing Script: Write a script that prints numbers from 1 to 10 using a for loop and a while loop.
 // 2. Multiplication Table Script: Create a script that prints the multiplication table of 5 using a for loop.
