@@ -71,14 +71,13 @@ console.log("..............")
 console.log(Object.keys(book));
 console.log(Object.values(book));
 
-// Feature Request
 
+// Feature Request
 // 1. Book Object Script: Write a script that creates a book object, adds methods to it, and logs its properties and method results.
 // 2. Library Object Script: Create a script that defines a library object containing an array of book objects and logs the library's details.
 // 3. Object Iteration Script: Write a script that demonstrates iterating over an object's properties using `for...in` loop and `Object.keys`/`Object.values`.
 
 // Achievement
-
 // By the end of these activities, students will:
 // - Create and manipulate objects with properties and methods.
 // - Understand and use the `this` keyword in object methods.
