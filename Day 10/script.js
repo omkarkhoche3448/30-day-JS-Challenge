@@ -1,7 +1,5 @@
 // Day 10: Event Handling
 
-// Day 10: Event Handling
-
 // Activity 1: Basic Event Handling
 // - Task 1: Add a click event listener to a button that changes the text content of a paragraph.
 document.getElementById("myButton").addEventListener("click", function () {
