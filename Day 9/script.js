@@ -57,7 +57,6 @@ function applyJavaScript() {
 
 document.getElementById("applyJsButton").addEventListener("click", applyJavaScript);
 
-
 // Feature Request:
 // Text Content Manipulation Script: Write a script that selects an HTML element by its ID and changes its text content.
 // Element Creation Script: Create a script that demonstrates creating a new div element and appending it to the body.
