@@ -85,6 +85,7 @@ functionsArray[2]();
 
 // Activity 4: Module Pattern
 // Task 6: Use closures to create a simple module for managing a collection of items. Implement methods to add, remove, and list items.
+
 function createModule() {
     let items = [];
     return {
@@ -116,7 +117,7 @@ module2.list();
 
 // Memoization function
 function memoize(fn) {
-    const cache = {}; // Object to store the results
+    const cache = {};
 
     return function (...args) {
         const key = JSON.stringify(args); // Create a unique key for the arguments
@@ -129,17 +130,14 @@ function memoize(fn) {
     };
 }
 
-// Example function to memoize
 function add(a, b) {
     return a + b;
 }
 
-// Create a memoized version of the 'add' function
 const memoizedAdd = memoize(add);
 
 console.log(memoizedAdd(1, 2)); // 3 (calculated and stored in cache)
 console.log(memoizedAdd(1, 2)); // 3 (retrieved from cache)
-
 
 
 // Task 8: Create a memoized version of a function that calculates the factorial of a number.
@@ -151,9 +149,12 @@ function factorial(n) {
 }
 
 const memoizedFactorial = memoize(factorial);
-console.log(memoizedFactorial(5));
-console.log(memoizedFactorial(5));
-console.log(memoizedFactorial(6));
+
+
+console.log(memoizedFactorial(5)); // 120 (calculated and stored in cache)
+console.log(memoizedFactorial(5)); // 120 (retrieved from cache)
+console.log(memoizedFactorial(6)); // 720 (calculated, uses cached value of factorial(5))
+
 
 // Feature Request:
 // Basic Closure Script: Write a script that demonstrates a basic closure with a function returning another function that accesses the outer function's variable.
