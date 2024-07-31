@@ -59,6 +59,7 @@ const task6 = (email) => {
     }
 };
 task6("user@gmail.com");
+task6("user@example.com");
 
 // Activity 4: Assertions and Boundaries
 
