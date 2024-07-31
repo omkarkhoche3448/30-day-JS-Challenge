@@ -77,7 +77,6 @@ const task7 = (str) => {
 task7("This is a sample string with words starting with capital letters."); // Should log: "This"
 task7("Another example string"); // Should log: "Another"
 
-
 // Task 8: Write a regular expression to match a word only if it is at the end of a string. Log the matches.
 const task8 = (str) => {
     const regex = /\b\w+\b$/;
@@ -91,6 +90,7 @@ const task8 = (str) => {
 
 task8("This is a sample string with words starting with capital letters."); // Should log: "letters"
 task8("Another example string"); // Should log: "string"
+
 
 // Activity 5: Practical Applications
 
