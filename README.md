@@ -13,7 +13,6 @@ This challenge is a comprehensive learning experience that covers various aspect
 
 To get started with the challenge, clone this repository to your local machine:
 
-```bash
 git clone https://github.com/omkarkhoche3448/30-day-JS-Challenge.git
 cd 30-day-JS-Challenge
 ```
