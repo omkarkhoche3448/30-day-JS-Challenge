@@ -1,3 +1,6 @@
+
+
+```markdown
 # 30 Day JavaScript Challenge
 
 Welcome to the 30 Day JavaScript Challenge! This challenge is designed to help you master JavaScript by working through a variety of tasks and activities each day. By the end of the 30 days, you will have a solid understanding of JavaScript fundamentals and be able to apply your knowledge to real-world projects.
@@ -10,10 +13,22 @@ This challenge is a comprehensive learning experience that covers various aspect
 
 To get started with the challenge, clone this repository to your local machine:
 
+```bash
 git clone https://github.com/omkarkhoche3448/30-day-JS-Challenge.git
 cd 30-day-JS-Challenge
+```
 
 Each day has its own folder with a README file that outlines the tasks and activities for that day. Follow the instructions in each README file to complete the challenge.
+
+## Live Projects
+
+Here are the live links to the projects completed during the challenge:
+
+- **Day 24: Weather App**: [Live Demo](https://your-weather-app-live-link.com)
+- **Day 25: Movie Search App**: [Live Demo](https://your-movie-search-app-live-link.com)
+- **Day 26: Chat Application**: [Live Demo](https://your-chat-application-live-link.com)
+- **Day 27: Task Manager**: [Live Demo](https://your-task-manager-live-link.com)
+- **Day 28: E-Commerce Site**: [Live Demo](https://your-ecommerce-site-live-link.com)
 
 ## Feature Requests
 
@@ -32,3 +47,5 @@ By the end of this challenge, you will:
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or additional tasks, feel free to open an issue or submit a pull request.
+```
+
