@@ -23,7 +23,7 @@ Each day has its own folder with a README file that outlines the tasks and activ
 
 Here are the live links to the projects completed during the challenge:
 
-- **Day 24: Weather App**: [Live Demo]()
+- **Day 24: Weather App**: [Live Demo](https://30-day-js-challenge-9s9v.vercel.app/)
 - **Day 25: Movie Search App**: [Live Demo](https://30-day-js-challenge-9b7g.vercel.app/)
 - **Day 26: Chat Application**: [Live Demo]()
 - **Day 27: Task Manager**: [Live Demo](https://30-day-js-challenge-git-main-omkarkhoche3448s-projects.vercel.app/)
