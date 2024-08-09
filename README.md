@@ -27,7 +27,7 @@ Here are the live links to the projects completed during the challenge:
 - **Day 24: Weather App**: [Live Demo](https://your-weather-app-live-link.com)
 - **Day 25: Movie Search App**: [Live Demo](https://your-movie-search-app-live-link.com)
 - **Day 26: Chat Application**: [Live Demo](https://your-chat-application-live-link.com)
-- **Day 27: Task Manager**: [Live Demo](https://your-task-manager-live-link.com)
+- **Day 27: Task Manager**: [Live Demo](https://30-day-js-challenge-git-main-omkarkhoche3448s-projects.vercel.app/)
 - **Day 28: E-Commerce Site**: [Live Demo](https://your-ecommerce-site-live-link.com)
 
 ## Feature Requests
@@ -48,4 +48,17 @@ By the end of this challenge, you will:
 
 Contributions are welcome! If you have suggestions for improvements or additional tasks, feel free to open an issue or submit a pull request.
 ```
+
+### Steps to Update README
+
+1. **Replace Placeholder URLs**: Update the `https://your-weather-app-live-link.com` and similar placeholders with the actual URLs where your projects are hosted.
+2. **Commit Changes**: Save your changes to `README.md`, then use the following commands to commit and push the updates:
+
+    ```bash
+    git add README.md
+    git commit -m "Added live project links"
+    git push
+    ```
+
+3. **Verify Links**: Make sure to test the links to ensure they are correctly pointing to your live projects.
 
