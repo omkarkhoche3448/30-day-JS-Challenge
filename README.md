@@ -28,6 +28,7 @@ Here are the live links to the projects completed during the challenge:
 - **Day 26: Chat Application**: [Live Demo]()
 - **Day 27: Task Manager**: [Live Demo](https://30-day-js-challenge-git-main-omkarkhoche3448s-projects.vercel.app/)
 - **Day 28: E-Commerce Site**: [Live Demo](https://your-ecommerce-site-live-link.com)
+- **Day 29 & 30: Social Media App **: [Live Demo](https://curious-empanada-df44f5.netlify.app/)
 
 ## Feature Requests
 
