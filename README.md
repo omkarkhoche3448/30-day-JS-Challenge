@@ -1,6 +1,5 @@
 
 
-```markdown
 # 30 Day JavaScript Challenge
 
 Welcome to the 30 Day JavaScript Challenge! This challenge is designed to help you master JavaScript by working through a variety of tasks and activities each day. By the end of the 30 days, you will have a solid understanding of JavaScript fundamentals and be able to apply your knowledge to real-world projects.
@@ -15,7 +14,7 @@ To get started with the challenge, clone this repository to your local machine:
 
 git clone https://github.com/omkarkhoche3448/30-day-JS-Challenge.git
 cd 30-day-JS-Challenge
-```
+
 
 Each day has its own folder with a README file that outlines the tasks and activities for that day. Follow the instructions in each README file to complete the challenge.
 
